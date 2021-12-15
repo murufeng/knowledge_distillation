@@ -761,16 +761,6 @@ Distillation and Cross-modal Matching. Wu, Bofeng et al. arViv:2105.08252
 ---
 Note: All papers' pdf can be found and downloaded on [arXiv](https://arxiv.org/search/), [Bing](https://www.bing.com) or [Google](https://www.google.com).
 
-Source: <https://github.com/FLHonker/Awesome-Knowledge-Distillation>
-
-Thanks for all contributors:
-
-[![yuang](https://avatars.githubusercontent.com/u/20468157?s=28&v=4)](https://github.com/FLHonker)  [![lioutasb](https://avatars.githubusercontent.com/u/9558061?s=28&v=4)](https://github.com/lioutasb)  [![KaiyuYue](https://avatars.githubusercontent.com/u/19852297?s=28&v=4)](https://github.com/KaiyuYue)  [<img src="https://avatars.githubusercontent.com/u/21128481?s=28&v=4" width = "28" height = "28" alt="avatar" />](https://github.com/shivmgg)  [![cardwing](https://avatars.githubusercontent.com/u/23656119?s=28&v=4)](https://github.com/cardwing)  [![jaywonchung](https://avatars1.githubusercontent.com/u/29395896?s=28&v=4)](https://github.com/jaywonchung)  [![ZainZhao](https://avatars.githubusercontent.com/u/28838928?s=28&v=4)](https://github.com/ZainZhao)  [<img src="https://avatars.githubusercontent.com/u/8179405?s=28&v=4" width = "28" height = "28" alt="avatar" />](https://github.com/forjiuzhou) [<img src="https://avatars.githubusercontent.com/u/15208588?s=28v=4" width = "28" height = "28" alt="avatar" />](https://github.com/fmthoker) [<img src="https://avatars.githubusercontent.com/u/23656119?s=28v=4" width = "28" height = "28" alt="avatar" />](https://github.com/cardwing)  [<img src="https://avatars.githubusercontent.com/u/19531609?v=4" width = "28" height = "28" alt="avatar" />](https://github.com/PyJulie)  
-
-
-Contact: Yuang Liu (frankliu624![](https://res.cloudinary.com/flhonker/image/upload/v1605363963/frankio/at1.png)outlook.com)
-
-
 [1.10]: https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation
 [1.26]: https://github.com/google-research/google-research/tree/master/meta_pseudo_labels
 [1.30]: https://github.com/dwang181/active-mixup
